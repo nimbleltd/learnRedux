@@ -3,6 +3,7 @@ function() {
 		{ title: 'Javascript: The Good Parts' },
 		{ title: 'Harry Potter' },
 		{ title: 'Dark Tower' },
-		{ title: 'Eloquent Ruby' }
+		{ title: 'Eloquent Ruby' },
+		{ title: 'Think and Grow Rich' }
 	]
 }
